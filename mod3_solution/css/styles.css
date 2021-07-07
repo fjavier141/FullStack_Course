@@ -1,0 +1,36 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+.navbar-brand h1{
+  color: dodgerblue;
+  font-size: 1.5em;
+  margin-top: 0; 
+}
+ul #nav-list{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+  background-color: goldenrod;  
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#menus{
+  padding: 20px 50px 20px 50px; 
+}
+
+#menus > div{
+  background-color: burlywood;
+  margin-bottom: 20px;
+  padding: 10px 15px 10px 15px;
+}
+
+#menus h3{
+  margin-top:10px; 
+}
